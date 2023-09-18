@@ -1326,8 +1326,6 @@ def passwrd():
 					pwv.append(Frs+'@123456')
 					
 					pwv.append(Frs+'@12345')
-					
-		    		pwv.append(Frs+'@1234')
 		
 		            pwv.append(Frs+'@123')
 		
@@ -1456,8 +1454,6 @@ def passwrd():
 		            pwv.append(Las+'@1234')
 		
 	 	           pwv.append(Frs+'@@')
-	
-	                pwv.append(Frs+'1234@')
 	
 	                pwv.append(frs+'las')
 	
