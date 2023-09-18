@@ -1322,23 +1322,7 @@ def passwrd():
 					pwv.append(frs+'@12345')
 
 					pwv.append(frs+'@123456')
-					
-					pwv.append(Frs+'@123456')
-					
-					pwv.append(Frs+'@12345')
 		
-		            pwv.append(Frs+'@123')
-		
-	            	pwv.append(Frs+'123')
-	
-	            	pwv.append(Frs+'1234')
-	
-		        	pwv.append(Frs+'12345')
-		
-			    	pwv.append(Frs+'123456')
-			
-					pwv.append(Frs+'123')
-					
 			    	pwv.append(las+'123')
 			
 		        	pwv.append(las+'1234')
@@ -1363,18 +1347,7 @@ def passwrd():
 		
 		            pwv.append(Las+'@1234')
 		
-	 	           pwv.append(Frs+'@@')
-	
-	                pwv.append(Frs+'1234@')
-	
-	                pwv.append(frs+'las')
-	
-                	pwv.append(Frs+'123@@@')
-                
-                    pwv.append(Frs+'123@')
-                    
-                    pwv.append(Frs+'@@')
-
+	 	          
 			else:
 
 				if len(frs)<3:
@@ -1411,25 +1384,7 @@ def passwrd():
 
 					pwv.append(frs+'@123456')
 					
-					pwv.append(Frs+'@123456')
-					
-					pwv.append(Frs+'@12345')
-					
-		    		pwv.append(frs+'@12345')
-		
-		            pwv.append(Frs+'@123')
-		
-	            	pwv.append(Frs+'123')
-	
-	            	pwv.append(Frs+'1234')
-	
-		        	pwv.append(Frs+'12345')
-		
-			    	pwv.append(Frs+'123456')
-			
-					pwv.append(Frs+'123')
-					
-			    	pwv.append(las+'123')
+		        	pwv.append(las+'123')
 			
 		        	pwv.append(las+'1234')
 		
@@ -1452,16 +1407,6 @@ def passwrd():
 		        	pwv.append(Las+'12345')
 		
 		            pwv.append(Las+'@1234')
-		
-	 	           pwv.append(Frs+'@@')
-	
-	                pwv.append(frs+'las')
-	
-                	pwv.append(Frs+'123@@@')
-                
-                    pwv.append(Frs+'123@')
-                    
-                    pwv.append(Frs+'@@')
                     
 
 			if 'ya' in pwpluss:
